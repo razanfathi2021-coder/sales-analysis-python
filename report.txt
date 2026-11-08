@@ -1,0 +1,8 @@
+SALES ANALYSIS REPORT (Jan - Oct 2026)
+=============================================
+Total orders : 1523
+Total revenue: 148,428.03 USD
+Units sold   : 11308
+Customers    : 32
+Best month   : 2026-10 (18,168 USD)
+Top product  : Rice 10kg (32,297 USD)
